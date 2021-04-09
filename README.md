@@ -35,7 +35,7 @@ This sample shows how to deploy an infrastructure and network topology on Azure 
 
 This sample also shows  how to:
 
-- use a system-assigned managed identity to let the Web App access secrets from Azure Key Vault
+- use a [system-assigned managed identity](https://docs.microsoft.com/en-us/azure/azure-app-configuration/howto-integrate-azure-managed-service-identity?tabs=core2x) to let the Web App access secrets from Azure Key Vault
 - deploy an ASP.NET Core application to an Azure App Service using a GitHub Actions workflow
 - disable the public network access from the internet to all the managed services used by the application:
 
