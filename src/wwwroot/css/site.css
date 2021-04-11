@@ -162,6 +162,7 @@ footer a { color: #666; display: block; }
 .mainContent{
     position: relative;
     z-index: 101;
+    width: 750px;
 }
 .container  {
 	min-width:900px;
