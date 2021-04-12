@@ -3,8 +3,18 @@ page_type: sample
 languages:
 - aspnet-core
 - bash
+- aspx-csharp
+- csharp
+- go
+- java
+- javascript
+- nodejs
+- python
+- rust
 products:
 - azure
+- aspnet
+- dotnet
 - dotnet-core
 - azure-storage
 - azure-blob-storage
