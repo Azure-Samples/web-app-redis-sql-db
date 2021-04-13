@@ -24,7 +24,9 @@ products:
 - azure-key-vault
 - azure-sql-database
 - azure-cache-redis
-- azure-web-app
+- azure-web-apps
+- azure-app-service
+- azure-app-service-web
 - azure-log-analytics
 - azure-virtual-machines
 - vs-code
