@@ -1,21 +1,17 @@
 ---
 page_type: sample
 languages:
-- aspnet-core
+- azurecli
 - bash
+- aspx
 - aspx-csharp
 - csharp
-- go
-- java
 - javascript
-- nodejs
-- python
-- rust
 products:
 - azure
-- aspnet
-- dotnet
+- aspnet-core
 - dotnet-core
+- ef-core
 - azure-storage
 - azure-blob-storage
 - azure-storage-accounts
