@@ -23,7 +23,6 @@ using Microsoft.EntityFrameworkCore;
 using StackExchange.Redis;
 using Products.Properties;
 using Products.Models;
-using Products.Helpers;
 #endregion
 
 namespace Products
