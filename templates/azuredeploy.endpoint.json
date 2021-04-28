@@ -34,7 +34,7 @@
         "I3"
       ],
       "metadata": {
-        "description": "Describes plan's pricing tier and instance size. Check details at https://azure.microsoft.com/en-us/pricing/details/app-service/"
+        "description": "Describes plan's pricing tier and instance size. For more information, see https://azure.microsoft.com/en-us/pricing/details/app-service/"
       }
     },
     "hostingPlanSkuCapacity": {

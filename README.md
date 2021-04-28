@@ -1020,6 +1020,6 @@ Once the Azure resources have been deployed to Azure (which can take about 10-12
 
 ## Test the Application
 
-After creating the database and deploying the Web App, you can simply navigate to the URL of your Azure App Service to check if the application is up and running, as shown in the following figure.
+After creating the database and deploying the Web App, you can simply navigate to the URL of your Azure App Service to check if the application is up and running, as shown in the following picture.
 
 ![Resources](images/demo.png)
