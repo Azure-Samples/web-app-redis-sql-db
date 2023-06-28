@@ -10,7 +10,6 @@ languages:
 products:
 - azure
 - aspnet-core
-- dotnet-core
 - ef-core
 - azure-storage
 - azure-blob-storage
